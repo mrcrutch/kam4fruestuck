@@ -1,6 +1,8 @@
 # kam4fruestuck
 
-A simple web application that displays a live webcam feed from Innsbruck, Austria. Perfect for enjoying the city's beautiful views while having your morning breakfast ("Frühstück" in German)! The name combines "Kam" (camera) and "Frühstück" (breakfast), as this project was created to enhance my breakfast experience with a live view of Innsbruck.
+A simple web application that displays a live webcam feed from Innsbruck, Austria.
+Perfect for enjoying the city's beautiful views while having your morning breakfast ("Frühstück" in German)!
+The name combines "Kam" (camera) and "Frühstück" (breakfast), as this project was created to enhance my breakfast experience with a live view of Innsbruck.
 
 ## Features
 
